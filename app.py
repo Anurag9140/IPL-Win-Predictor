@@ -113,7 +113,6 @@ accuracy_score(y_test,y_pred)
 
 
 import streamlit as st
-import pickle
 import pandas as pd
 
 teams = ['Sunrisers Hyderabad',
