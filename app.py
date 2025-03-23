@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-match=pd.read_csv("/Users/anuragverma/IPL_Win_Predictor/Data/matches.csv")
-delivery=pd.read_csv("/Users/anuragverma/IPL_Win_Predictor/Data/deliveries.csv")
+match=pd.read_csv("matches.csv")
+delivery=pd.read_csv("Data/deliveries.csv")
 
 match.head()
 
