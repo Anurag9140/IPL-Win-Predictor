@@ -22,7 +22,7 @@ teams=[
     'Chennai Super Kings',
     'Kolkata Knight Riders',
     'Rajasthan Royals',
-    'Gujrat Titans,
+    'Gujrat Titans',
     'Lucknow Super Giants',
     'Punjab Kings',
     'Sunrisers Hyderabad',
