@@ -122,7 +122,9 @@ teams = ['Sunrisers Hyderabad',
  'Kings XI Punjab',
  'Chennai Super Kings',
  'Rajasthan Royals',
- 'Delhi Capitals']
+ 'Delhi Capitals',
+ 'Gujrat Titans',
+'Lucknow Super Giants']
 
 cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
        'Chandigarh', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth',
